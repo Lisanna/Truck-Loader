@@ -20,22 +20,21 @@ Full-stack web app to plan truck loading layouts and visualize them.
 
 ## Install & Run Locally
 
-### 1️⃣ Install dependencies
-
+### Install dependencies
 ```bash
 npm install```
 
-### 2️⃣ Run development server
+### Run development server
 ```bash
 npm run dev```
 
 Frontend available at: http://localhost:5173
 
-### 3️⃣ Build frontend for production
+### Build frontend for production
 ```bash
 npm run build```
 
-### 4️⃣ Start backend server
+### Start backend server
 Backend server code is in the project → you may need to move it to /server explicitly for clean separation.
 
 Run Express API:
